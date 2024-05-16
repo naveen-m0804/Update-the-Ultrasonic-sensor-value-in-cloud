@@ -1,5 +1,5 @@
-### NAME : AMRUTHA RAJSHEKER
-### REG NO : 212222110003
+### NAME : NAVEEN M
+### REG NO : 212222110029
 
 # EXPERIMENT 6 - Update the Ultrasonic sensor value in Things Mate
 
