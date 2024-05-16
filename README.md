@@ -221,7 +221,8 @@ cm:Centimeter
 }
 ```
 # OUTPUT:
-![1](https://github.com/SowmyaVisvanathan/Update-the-Ultrasonic-sensor-value-in-cloud/assets/119475775/1ca25a87-a704-4f73-b46e-f03bdc0cbba7)
+![WhatsApp Image 2024-05-14 at 12 24 25_398ebbf2](https://github.com/naveen-m0804/Update-the-Ultrasonic-sensor-value-in-cloud/assets/117974950/e9c6db64-94f0-4ce9-8619-313a5aaeed0d)
+
 
 # RESULT:
 
